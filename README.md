@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 ======================================================================================================================================
 
-Java Developer
+Software Developer
 --------------
 
 I have graduated from Instituto Politécnico do Porto, in Computer Engineering for 3 years. I also took 2 more courses on Udemy, one of the courses includes the development using Flutter and another in Web development. At this moment I plan to follow my studies in a master's degree in Artificial Intelligence.

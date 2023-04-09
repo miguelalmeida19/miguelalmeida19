@@ -11,6 +11,7 @@ I have graduated from Instituto Politécnico do Porto, in Computer Engineering f
 * ✉️  You can contact me at [miguelalmeida2002@gmail.com](mailto:miguelalmeida2002@gmail.com)
 * 🧠  I'm learning HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC
 * 🤝  I'm open to collaborating on interesting projects
+* 🏆  Web Technologies Champion of WorldSkills Portugal 2023
 
 <a href="https://www.github.com/miguelalmeida19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/miguelalmeida19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
